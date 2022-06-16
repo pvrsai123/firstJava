@@ -4,6 +4,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello,New World on 16th June. 14:37 hrs. 2020");
+    System.out.println("Hello,New World on 16th June. 14:37\8 hrs. 2020");
   }
 }
